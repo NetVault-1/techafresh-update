@@ -1,7 +1,7 @@
 {
-    "versionCode":8,
-    "versionName":"7.1",
+    "versionCode":9,
+    "versionName":"7.1.1",
     "contentText":"A new version is now available...",
-    "minSupport":21,
+    "minSupport":23,
     "url":"https://apkpure.com/techafresh-vpn-x/com.techafresh.vpn"
 }
