@@ -1,7 +1,7 @@
 {
-    "versionCode": 13,
-    "versionName": "7.1.5",
-    "contentText": "What's new?\n• Minor fixes & overall improvements",
+    "versionCode": 14,
+    "versionName": "7.1.6",
+    "contentText": "What's New?\n• Minor Home UI redesign.\n• Added Tools Tab (Host to IP, DNS Lookup, and more).\n• Improved VIP European servers.",
     "minSupport": 23,
     "url": "https://apkpure.com/techafresh-vpn-x/com.techafresh.vpn"
 }
