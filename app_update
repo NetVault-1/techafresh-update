@@ -1,7 +1,7 @@
 {
-    "versionCode": 15,
-    "versionName": "7.1.7",
-    "contentText": "What's New?\n• CardView UI (updated).\n• Android 8 (Oreo) up to Android 16.",
+    "versionCode": 16,
+    "versionName": "7.1.8",
+    "contentText": "What's New?\n• Minor bug fixes and overall improvements.",
     "minSupport": 26,
     "url": "https://apkpure.com/techafresh-vpn-x/com.techafresh.vpn"
 }
